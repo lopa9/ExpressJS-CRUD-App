@@ -35,4 +35,12 @@ This command creates a package.json file in your project directory
 
 ## Implementing CRUD Operations
 ### Create: Adding a New Book
+![1](https://github.com/user-attachments/assets/cf4c8a60-dd09-4364-a93e-7fbd15e27165)
+
+### Read: Fetching Books
+#### For getting All books :
+![2](https://github.com/user-attachments/assets/5ea9d1b7-9cba-460c-a4af-cfbf2cfc2025)
+
+#### For getting a specific book :
+![3](https://github.com/user-attachments/assets/1268c80c-40ed-4976-a727-826c458d9f9b)
 
