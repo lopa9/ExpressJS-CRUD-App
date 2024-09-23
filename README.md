@@ -76,6 +76,29 @@ then write the code giben below
 
 ![9](https://github.com/user-attachments/assets/457f0b69-0e50-4b33-b0af-77d7fd62c6e1)
 
+Then push it on your repository
+and open it on git workspace
+then install express and mongoose
+
+### npm install express
+### npm install mongoose
+#### then split the terminal 
+At the left side, type....
+
+![11](https://github.com/user-attachments/assets/f2a815a0-4c1a-4ac7-b0c8-20de06ae4080)
+
+At the right side , type....
+
+![12](https://github.com/user-attachments/assets/6c5d8a37-88f0-4558-9891-14f8a51c6ce1)
+
+Get an Extension named Thunder Client
+
+## Post :
+![13](https://github.com/user-attachments/assets/c341a57d-c4ae-42e6-a72f-6d008580b5b7)
+
+## Get :
+
+
 
 
 
