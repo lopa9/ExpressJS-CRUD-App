@@ -65,14 +65,14 @@ Then paste the code given below
 
 ![7](https://github.com/user-attachments/assets/01a21616-3f96-4231-9f20-bf5ecc67e470)
 
-### Creating a Model
+###🔧 Creating a Model
 #### make a directory "models"
 #### create a file "bookModel.js"
 then write the code giben below
 
 ![8](https://github.com/user-attachments/assets/97069314-8901-4168-be56-4dfdb482fa61)
 
-### Givinging Routes
+###🛣 Givinging Routes
 #### make a directory "routes"
 #### Create a file "bookRote.js"
 
@@ -93,15 +93,15 @@ At the right side , type....
 
 ![12](https://github.com/user-attachments/assets/6c5d8a37-88f0-4558-9891-14f8a51c6ce1)
 
-Get an Extension named Thunder Client
+🔑Get an Extension named Thunder Client
 
-## POST :
+##🎈 POST :
 ![13](https://github.com/user-attachments/assets/c341a57d-c4ae-42e6-a72f-6d008580b5b7)
 
-## GET :
+##💗 GET :
 ![14](https://github.com/user-attachments/assets/dd529f8b-63a6-4441-aaa3-3022e754d996)
 
-## PUT :
+##🍕 PUT :
 copy the id from the get method
 the paste it on the url:
 
@@ -110,7 +110,7 @@ the paste it on the url:
 Now make the chanages at the body , and apply PUT
 ![16](https://github.com/user-attachments/assets/365025d7-0045-4dc3-9f48-fffa42d26b37)
 
-## DELETE :
+##🚽 DELETE :
 just like the put method .. youu can delete some data by putting id 
 
 ![17](https://github.com/user-attachments/assets/462f988d-f289-4bdd-847f-ecf265b978c1)
