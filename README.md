@@ -53,7 +53,9 @@ This command creates a package.json file in your project directory
 ## 🐥Integrating a Database
 #### Installing Mongoose
 ##### Install it by running :
+
 npm install mongoose
+
 ![6](https://github.com/user-attachments/assets/12e1ce6f-a154-4df9-8647-50f8e291d6bd)
 
 ### 🤝 Setting Up Mongoose
@@ -93,10 +95,26 @@ At the right side , type....
 
 Get an Extension named Thunder Client
 
-## Post :
+## POST :
 ![13](https://github.com/user-attachments/assets/c341a57d-c4ae-42e6-a72f-6d008580b5b7)
 
-## Get :
+## GET :
+![14](https://github.com/user-attachments/assets/dd529f8b-63a6-4441-aaa3-3022e754d996)
+
+## PUT :
+copy the id from the get method
+the paste it on the url:
+
+![15](https://github.com/user-attachments/assets/01b76f45-2917-4c88-bf38-9d1e56c81839)
+
+Now make the chanages at the body , and apply PUT
+![16](https://github.com/user-attachments/assets/365025d7-0045-4dc3-9f48-fffa42d26b37)
+
+## DELETE :
+just like the put method .. youu can delete some data by putting id 
+
+![17](https://github.com/user-attachments/assets/462f988d-f289-4bdd-847f-ecf265b978c1)
+
 
 
 
