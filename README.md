@@ -62,3 +62,25 @@ npm install mongoose
 Then paste the code given below
 
 ![7](https://github.com/user-attachments/assets/01a21616-3f96-4231-9f20-bf5ecc67e470)
+
+### Creating a Model
+#### make a directory "models"
+#### create a file "bookModel.js"
+then write the code giben below
+
+![8](https://github.com/user-attachments/assets/97069314-8901-4168-be56-4dfdb482fa61)
+
+### Givinging Routes
+#### make a directory "routes"
+#### Create a file "bookRote.js"
+
+![9](https://github.com/user-attachments/assets/457f0b69-0e50-4b33-b0af-77d7fd62c6e1)
+
+
+
+
+
+
+
+
+
