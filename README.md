@@ -34,10 +34,10 @@ This command creates a package.json file in your project directory
 ![Screenshot 2024-09-24 012401](https://github.com/user-attachments/assets/02bc3d45-062b-4302-9a29-b9f75699309b)
 
 ## Implementing CRUD Operations
-###👾 Create: Adding a New Book
+### 👾Create: Adding a New Book
 ![1](https://github.com/user-attachments/assets/cf4c8a60-dd09-4364-a93e-7fbd15e27165)
 
-###📜 Read: Fetching Books
+### 📜Read: Fetching Books
 #### For getting All books :
 ![2](https://github.com/user-attachments/assets/5ea9d1b7-9cba-460c-a4af-cfbf2cfc2025)
 
@@ -56,7 +56,7 @@ This command creates a package.json file in your project directory
 npm install mongoose
 ![6](https://github.com/user-attachments/assets/12e1ce6f-a154-4df9-8647-50f8e291d6bd)
 
-###🤝 Setting Up Mongoose
+### 🤝 Setting Up Mongoose
 #### make a directory "config"
 #### make a file "db.js" inside config .
 Then paste the code given below
