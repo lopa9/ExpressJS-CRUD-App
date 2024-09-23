@@ -44,3 +44,20 @@ This command creates a package.json file in your project directory
 #### For getting a specific book :
 ![3](https://github.com/user-attachments/assets/1268c80c-40ed-4976-a727-826c458d9f9b)
 
+### Update: Modifying a Book’s Details
+![4](https://github.com/user-attachments/assets/3e8b663a-94cb-4792-bdba-0b731149ed92)
+
+### Delete: Removing a Book
+![5](https://github.com/user-attachments/assets/7ccbe303-78ba-462f-b0ae-7a716b1fbd02)
+
+## Integrating a Database
+#### Installing Mongoose
+##### Install it by running :
+npm install mongoose
+![6](https://github.com/user-attachments/assets/12e1ce6f-a154-4df9-8647-50f8e291d6bd)
+
+### Setting Up Mongoose
+#### make a directory "config"
+#### make a file "db.js" inside config .
+Then paste the code given below
+![7](https://github.com/user-attachments/assets/01a21616-3f96-4231-9f20-bf5ecc67e470)
