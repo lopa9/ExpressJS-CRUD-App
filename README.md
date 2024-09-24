@@ -53,8 +53,10 @@ At the right side , type....
 ![13](https://github.com/user-attachments/assets/c341a57d-c4ae-42e6-a72f-6d008580b5b7)
 
 
+
 ## 💗GET :
 ![14](https://github.com/user-attachments/assets/dd529f8b-63a6-4441-aaa3-3022e754d996)
+
 
 
 
@@ -66,6 +68,7 @@ the paste it on the url:
 
 Now make the chanages at the body , and apply PUT
 ![16](https://github.com/user-attachments/assets/365025d7-0045-4dc3-9f48-fffa42d26b37)
+
 
 
 
