@@ -31,14 +31,12 @@ This Express CRUD app serves as a practical example of building a RESTful API us
 #### Installing Mongoose
 ##### Install it by running :
 
-npm install mongoose
+### npm install mongoose
 
 ![6](https://github.com/user-attachments/assets/12e1ce6f-a154-4df9-8647-50f8e291d6bd)
 
 
-### npm install express
-### npm install mongoose
-#### then split the terminal 
+#### 🥥Now split the terminal 
 At the left side, type....
 
 ![11](https://github.com/user-attachments/assets/f2a815a0-4c1a-4ac7-b0c8-20de06ae4080)
