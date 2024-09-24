@@ -1,27 +1,6 @@
  # ExpressJs CRUD App
 
- ### 🔨Setting Up the Development Environment
- #### Step-1 :
- #### 👇Installing Node.js and npm (You’ll need to download and install it from the Node.js website )
- 
- Once installed, open your terminal or command prompt and type:
- ![nodeJS](https://github.com/user-attachments/assets/79c85b8e-3f60-428a-a2e6-3162b6c12993)
- 
- You should see the version number of npm.
-
- #### Step-2 :
- #### 🗽Initializing a Node.js Project
- 
-![nodeJS](https://github.com/user-attachments/assets/4dec9e23-2255-4f96-9f42-c8704df0e7a6)
-
-This command creates a package.json file in your project directory
-
-#### Step-3 :
-#### 🎭Installing Express
-
-![express_install](https://github.com/user-attachments/assets/0b7b18fc-1af2-41cf-8cc6-520420560e4a)
-
-## Description
+## 🔎Description
 This Express CRUD app serves as a practical example of building a RESTful API using Node.js and Express. It provides users with the ability to create, read, update, and delete items in a straightforward manner. The application is designed to be lightweight and easy to understand, making it an excellent starting point for developers looking to learn about Express and RESTful principles.
 
 
@@ -33,6 +12,19 @@ This Express CRUD app serves as a practical example of building a RESTful API us
 👽Update (PUT/PATCH): Modifies existing data.
 
 💥Delete (DELETE): Removes data.
+
+ ### 🔨Setting Up the Development Environment
+ #### Step-1 :
+ #### 👇Installing Node.js and npm (You’ll need to download and install it from the Node.js website )
+ 
+ Once installed, open your terminal or command prompt and type:
+ ![nodeJS](https://github.com/user-attachments/assets/79c85b8e-3f60-428a-a2e6-3162b6c12993)
+ 
+ You should see the version number of npm.
+
+#### 🎭Installing Express
+
+![express_install](https://github.com/user-attachments/assets/0b7b18fc-1af2-41cf-8cc6-520420560e4a)
 
 
 ## 🐥Integrating a Database
