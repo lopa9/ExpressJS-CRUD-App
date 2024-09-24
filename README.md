@@ -14,7 +14,6 @@ This Express CRUD app serves as a practical example of building a RESTful API us
 💥Delete (DELETE): Removes data.
 
  ### 🔨Setting Up the Development Environment
- #### Step-1 :
  #### 👇Installing Node.js and npm (You’ll need to download and install it from the Node.js website )
  
  Once installed, open your terminal or command prompt and type:
